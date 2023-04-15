@@ -61,6 +61,9 @@ required, but most plugins expect a single sample. Some also
 require/accept other options.  Run "python vol.py <plugin> -h"
 for more information on a particular command.
 
+Screenshots
+=============
+
 Documentation
 =============
 
