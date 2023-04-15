@@ -86,11 +86,11 @@ http://localhost:2303/en/latest/
 Licensing and Copyright
 =======================
 
-Copyright (C) 2023 GROUP-I of DBS
+Copyright (C) 2023 GROUP-I of MS_CYBER_SECURITY_DBS
 
 All Rights Reserved
 
-http://localhost:2303/license/vsl-v1.0
+http://localhost:2303/license/v1.0
 
 Bugs and Support
 ================
@@ -103,12 +103,12 @@ In order to help us solve your issues as quickly as possible,
 please include the following information when filing a bug:
 
 * The version of  you're using
-* The operating system used to run Volatility
-* The version of Python used to run Volatility
+* The operating system used to run the portal
+* The version of Python used to run the portal
 * The suspected operating system of the memory sample
-* The complete command line you used to run Volatility
+* The complete command line you used to run the portal
 
-For community support, please join us on slack:
+For community support, please join us on facebook.
 
 http://localhost:2303/Home.aspx
 
