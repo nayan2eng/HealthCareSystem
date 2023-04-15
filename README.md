@@ -51,24 +51,17 @@ git clone https://github.com/nayan2eng/HealthCareSystem.git
 Quick Start
 ===========
 
-1. Clone the latest version of Volatility from GitHub:
+1. Clone the latest version of the portal from GitHub:
 
     git clone https://github.com/nayan2eng/HealthCareSystem.git
 
-2. To see available options, run "python vol.py -h"
+2. Setup the clone repository in under git tab of Microsoft Visual Studio
 
-3. To get more information on a Windows memory sample and to make sure
-Volatility supports that sample type, run
-'python -f <imagepath> windows.info’
+3. Execute sync or push/pull
 
-   Example:
+4. Debug and Execute 
 
-    $ python vol.py —f /home/user/samples/stuxnet.vmem windows.info
-
-4. Run some other plugins. The -f or —-single-location is not strictly
-required, but most plugins expect a single sample. Some also
-require/accept other options.  Run "python vol.py <plugin> -h"
-for more information on a particular command.
+5. The output will be shown in a browser (http://localhost:2303/Home.aspx)
 
 Screenshots
 =============
