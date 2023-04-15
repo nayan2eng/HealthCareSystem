@@ -63,7 +63,7 @@ for more information on a particular command.
 
 Screenshots
 =============
-    ![image](D:\Project\Home.jpg)
+    ![image](D:\Project\home.png)
 
 
 Documentation
