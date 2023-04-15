@@ -74,6 +74,12 @@ Screenshots
 =============
 ![image](./Img/scr-home.png)
 
+![image](./Img/scr-add-doc.png)
+
+![image](./Img/scr-add-pat.png)
+
+![image](./Img/scr-add-appoint.png)
+
 
 Documentation
 =============
