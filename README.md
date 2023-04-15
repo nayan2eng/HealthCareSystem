@@ -11,10 +11,19 @@ for managing the data of doctors, patients and appointment done by
 people. It includes three modules named doctor, patient and appointment 
 module.
 
-The modules must be filled by the admin. By this module, doctor
+The modules must be filled by the admin. By doctor module, doctor
 adding with ID, name, a list of speciality, phone and address information
 should be added to the database. All data input by this module should be
 displayed by view doctor list event.
+
+Patient module deals with entering patients data with ID, name, gender,
+age, address, phone, height & weight. All submitted data will be shown 
+by Patient List tab.
+
+The Appointment module deals with setting apponitment with doctor for
+specific patients managed by admin. An appointment ID, date, time and
+details must be filled. All appointments data should be shown in 
+appointment list tab.
 
 
 Requirements
