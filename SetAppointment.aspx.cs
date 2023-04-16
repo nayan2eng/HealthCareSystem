@@ -82,7 +82,6 @@ namespace ClinicManagement
         protected void ClearForm()
         {
             txt_appid.Text = string.Empty;
-            
             txt_apptime.Text = string.Empty;
             txt_appdetail.Text = string.Empty;
             ddl_patient.ClearSelection();

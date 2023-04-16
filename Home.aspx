@@ -4,7 +4,7 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <title>:: Welcome to Health Care Clinic | A Project by AHMAD & KHASHAN</title>
+    <title>:: Welcome to Health Care Clinic | A Project by Ahmed & Hasan</title>
     
     
         <style type="text/css">  
@@ -120,8 +120,8 @@ a:active {
                     <br />
                     
                     <b>Team</b><br/>
-                    <b>Sheikh Muhammad Ahmad (62986) <br/> Muhammad Kashan (64055)<b />
-                        <br /><br /><b>Presented to:</b> Miss Aleena Khan <br />
+                    <b>Sheikh Muhammad Ahmad (10637344) <br/> Mohammad Rabiul Hasan (10633381)<b />
+                        <br /><b>Presented to:</b> Paul Laird <br />
 
                     <% DateTime.Now.ToString(); %>
 
