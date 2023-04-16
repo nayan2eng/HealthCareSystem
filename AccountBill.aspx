@@ -1,5 +1,5 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="AccountBill.aspx.cs" Inherits="ClinicManagement.AccountBill" %>
-
+#Accounts desingning in Html
 <!DOCTYPE html>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
