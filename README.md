@@ -79,14 +79,6 @@ Screenshots
 
 ![image](./Img/scr-view-bill.png)
 
-Documentation
-=============
-
-The framework is documented through doc strings and can be built using dotnet.
-
-The latest generated copy of the documentation can be found at:
-http://localhost:2303/en/latest/
-
 Licensing and Copyright
 =======================
 
