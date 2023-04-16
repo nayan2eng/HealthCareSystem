@@ -87,6 +87,8 @@ Quick Start
 
 Screenshots
 =============
+![image](./Img/scr-admin-login.png)
+
 ![image](./Img/scr-home.png)
 
 ![image](./Img/scr-add-doc.png)
