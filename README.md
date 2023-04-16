@@ -4,7 +4,8 @@ Health Care Clinic: A Health Care Clinic Management System
 
 =======================================
 
-Documentation
+Quick Start
+===========
 
 In this projent, we are trying to develop a health care management system 
 named Health Care Clinic. This type of project is widely used in many 
