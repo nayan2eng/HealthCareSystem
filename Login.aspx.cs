@@ -30,7 +30,8 @@ namespace ClinicManagement
             }
             else if (txt_user.Text == "accounts" && txt_pwd.Text == "123456")
             {
-                Response.Redirect("./Accounts.aspx");
+                //Response.Redirect("./Accounts.aspx");
+                Response.Redirect("./AccountBill.aspx");
             }
 
             else

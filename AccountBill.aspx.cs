@@ -64,7 +64,9 @@ namespace ClinicManagement
             //Connection objconn = new Connection();
             //objconn.OpenConnection();
 
-            string connectionString = "Data Source = WSLAB4029;Initial Catalog = HealthCare; Trusted_Connection=True";
+            //string connectionString = "Data Source = local;Initial Catalog = HealthCare; Trusted_Connection=True";
+            string connectionString = "Data Source = (local)\\SQLEXPRESS;Initial Catalog = HealthCare; Trusted_Connection=True";
+            //SqlConnection con;
             SqlConnection con;
             con = new SqlConnection(connectionString);
 
