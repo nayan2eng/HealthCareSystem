@@ -11,8 +11,9 @@ In this projent, we are trying to develop a health care management system
 named Health Care Clinic. This type of project is widely used in many 
 organization such as diagonostic center, madecal pharmacy and hospitals
 for managing the data of doctors, patients and appointment done by 
-people. It includes three modules named doctor, patient and appointment 
-module.
+people. It includes mainly three modules named doctor, patient and appointment 
+module. There is another module called accounts which helps to create bills
+for doctors and also shows all available bills.
 
 The modules must be filled by the admin. By doctor module, doctor
 adding with ID, name, a list of speciality, phone and address information
