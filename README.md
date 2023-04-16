@@ -73,6 +73,11 @@ Screenshots
 
 ![image](./Img/scr-add-appoint.png)
 
+![image](./Img/scr-list-appoint.png)
+
+![image](./Img/scr-create-bill.png)
+
+![image](./Img/scr-view-bill.png)
 
 Documentation
 =============
