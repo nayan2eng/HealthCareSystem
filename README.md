@@ -7,7 +7,7 @@ Health Care Clinic: A Health Care Clinic Management System
 Documentation
 ===========
 
-In this projent, we are trying to develop a health care management system 
+In this project, we are trying to develop a health care management system 
 named Health Care Clinic. This type of project is widely used in many 
 organization such as diagonostic center, medical pharmacy and hospitals
 for managing the data of doctors, patients and appointment done by 
