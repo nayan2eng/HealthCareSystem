@@ -4,7 +4,7 @@ Health Care Clinic: A Health Care Clinic Management System
 
 =======================================
 
-Quick Start
+Documentation
 ===========
 
 In this projent, we are trying to develop a health care management system 
