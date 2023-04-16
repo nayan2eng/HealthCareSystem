@@ -4,7 +4,7 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <title>:: Welcome to Health Care Clinic | A Project by Ahmed & Hasan</title>
+    <title>:: Welcome to Health Care Clinic | A Project by Sheikh Muhammad Ahmad & Hasan</title>
     
     
         <style type="text/css">  
