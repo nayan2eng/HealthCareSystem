@@ -93,7 +93,11 @@ Screenshots
 
 ![image](./Img/scr-add-doc.png)
 
+![image](./Img/scr-doc-list.png)
+
 ![image](./Img/scr-add-pat.png)
+
+![image](./Img/scr-pat-list.png)
 
 ![image](./Img/scr-add-appoint.png)
 
