@@ -4,6 +4,8 @@ Health Care Clinic: A Health Care Clinic Management System
 
 =======================================
 
+Documentation
+
 In this projent, we are trying to develop a health care management system 
 named Health Care Clinic. This type of project is widely used in many 
 organization such as diagonostic center, madecal pharmacy and hospitals
@@ -24,6 +26,9 @@ The Appointment module deals with setting apponitment with doctor for
 specific patients managed by admin. An appointment ID, date, time and
 details must be filled. All appointments data should be shown in 
 appointment list tab.
+
+The account module provides the facility to create billing for doctors
+and also shows the all available bills.
 
 
 Requirements
