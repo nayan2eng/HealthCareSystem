@@ -44,7 +44,6 @@ namespace ClinicManagement
             txt_patgender.Text = string.Empty;
             txt_patweight.Text = string.Empty;
             txt_patheight.Text = string.Empty;
-# txt_patheight.Text = string.Empty;
 
         }
 
